@@ -44,6 +44,8 @@ public class quest5 {
 		}//for
 	}//void main
 	
+	
+	//compareTo() 를 사용하여 정렬해보자.
 	public void arrSort(String[] str) {
 		for(int i = 0; i< str.length-1; i++) {
 			for(int j = 0; j<str.length-1-i; j++) {
